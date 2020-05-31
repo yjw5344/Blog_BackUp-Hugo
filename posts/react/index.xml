@@ -1,0 +1,11 @@
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+        <title>ReactJS on Blog 🧐</title>
+        <link>https://yjw5344.github.io/posts/react/</link>
+        <description>Recent content in ReactJS on Blog 🧐</description>
+        <generator>Hugo -- gohugo.io</generator>
+        <language>en-us</language>
+        <atom:link href="https://yjw5344.github.io/posts/react/index.xml" rel="self" type="application/rss+xml" />
+        
+    </channel>
+</rss>

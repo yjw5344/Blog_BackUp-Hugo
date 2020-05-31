@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>hello-programmer on Blog 🧐</title>
+    <link>https://yjw5344.github.io/tags/hello-programmer/</link>
+    <description>Recent content in hello-programmer on Blog 🧐</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 31 May 2020 23:09:40 +0900</lastBuildDate>
+    
+	<atom:link href="https://yjw5344.github.io/tags/hello-programmer/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Show</title>
+      <link>https://yjw5344.github.io/posts/2020/05/show/</link>
+      <pubDate>Sun, 31 May 2020 23:09:40 +0900</pubDate>
+      
+      <guid>https://yjw5344.github.io/posts/2020/05/show/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>블로그 구축 완료! :)</title>
+      <link>https://yjw5344.github.io/daily/tt/</link>
+      <pubDate>Sun, 31 May 2020 13:05:15 +0900</pubDate>
+      
+      <guid>https://yjw5344.github.io/daily/tt/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>python_Test</title>
+      <link>https://yjw5344.github.io/posts/2020/05/python_test/</link>
+      <pubDate>Sat, 23 May 2020 13:05:15 +0900</pubDate>
+      
+      <guid>https://yjw5344.github.io/posts/2020/05/python_test/</guid>
+      <description>Hello World</description>
+    </item>
+    
+  </channel>
+</rss>

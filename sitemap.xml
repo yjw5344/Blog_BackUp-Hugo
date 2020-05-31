@@ -3,7 +3,87 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://yjw5344.github.io/posts/java/</loc>
+    <loc>https://yjw5344.github.io/about/</loc>
+    <lastmod>2020-05-31T23:59:11+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://yjw5344.github.io/</loc>
+    <lastmod>2020-05-31T23:59:11+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://yjw5344.github.io/tags/blog/</loc>
+    <lastmod>2020-05-31T23:09:40+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://yjw5344.github.io/tags/hello-programmer/</loc>
+    <lastmod>2020-05-31T23:09:40+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://yjw5344.github.io/posts/hugo/</loc>
+    <lastmod>2020-05-31T23:09:40+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://yjw5344.github.io/tags/hugo/</loc>
+    <lastmod>2020-05-31T23:09:40+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://yjw5344.github.io/tags/jekyll/</loc>
+    <lastmod>2020-05-31T23:09:40+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://yjw5344.github.io/tags/lubang/</loc>
+    <lastmod>2020-05-31T23:09:40+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://yjw5344.github.io/posts/</loc>
+    <lastmod>2020-05-31T23:09:40+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://yjw5344.github.io/posts/2020/05/show/</loc>
+    <lastmod>2020-05-31T23:09:40+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://yjw5344.github.io/tags/</loc>
+    <lastmod>2020-05-31T23:09:40+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://yjw5344.github.io/tags/theme/</loc>
+    <lastmod>2020-05-31T23:09:40+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://yjw5344.github.io/categories/</loc>
+    <lastmod>2020-05-31T13:05:15+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://yjw5344.github.io/daily/</loc>
+    <lastmod>2020-05-31T13:05:15+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://yjw5344.github.io/categories/essay/</loc>
+    <lastmod>2020-05-31T13:05:15+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://yjw5344.github.io/daily/tt/</loc>
+    <lastmod>2020-05-31T13:05:15+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://yjw5344.github.io/posts/dev/</loc>
     <lastmod>2020-05-23T13:05:15+09:00</lastmod>
   </url>
   
@@ -13,35 +93,16 @@
   </url>
   
   <url>
-    <loc>https://yjw5344.github.io/</loc>
-    <lastmod>2020-05-23T13:05:15+09:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://yjw5344.github.io/posts/</loc>
-    <lastmod>2020-05-23T13:05:15+09:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://yjw5344.github.io/posts/python/</loc>
-    <lastmod>2020-05-23T13:05:15+09:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://yjw5344.github.io/posts/2020/05/python_test/</loc>
     <lastmod>2020-05-23T13:05:15+09:00</lastmod>
   </url>
   
   <url>
-    <loc>https://yjw5344.github.io/categories/</loc>
+    <loc>https://yjw5344.github.io/posts/react/</loc>
   </url>
   
   <url>
     <loc>https://yjw5344.github.io/series/</loc>
-  </url>
-  
-  <url>
-    <loc>https://yjw5344.github.io/tags/</loc>
   </url>
   
 </urlset>
